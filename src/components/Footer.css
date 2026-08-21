@@ -1,0 +1,29 @@
+footer{
+    background:var(--primary);
+    color:var(--white);
+    text-align:center;
+    padding:24px;
+}
+
+footer nav a{
+    color:var(--white);
+    text-decoration:underline;
+    margin-left:8px;
+}
+
+footer nav a:hover{
+    color:var(--accent-light);
+}
+
+body[data-theme="dark"] footer {
+    background: #0B1220;
+    color: #CBD5E1;
+}
+
+body[data-theme="dark"] footer a {
+    color: #ffffff;
+}
+
+body[data-theme="dark"] footer a:hover {
+    color: var(--accent-light);
+}

@@ -1,0 +1,2 @@
+Missing image referenced by src/components/About.jsx: ../assets/bhakti.jpeg.jpeg
+Replace it with the original image from the complete class project if available.
