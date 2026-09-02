@@ -3,12 +3,12 @@
     font-synthesis: none;
     text-rendering: optimizeLegibility;
 
-    --bg: #F0F9FF;
-    --text: #475569;
-    --heading: #0C4A6E;
-    --primary: #0EA5E9;
-    --surface: #FFFFFF;
-    --border: #BAE6FD;
+    --bg: #eef4f4;
+    --text: #0a0a0a;
+    --heading: #141415;
+    --primary: #070707;
+    --surface: #afa4b8;
+    --border: #140c04;
 }
 
 * {

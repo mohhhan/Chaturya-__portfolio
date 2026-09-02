@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <footer>
             <p>
-                &copy; {year} Mohan. All rights reserved.
+                &copy; {year} Abhishek. All rights reserved.
             </p>
 
             <nav aria-label="social links">
@@ -19,7 +19,7 @@ export default function Footer() {
                 </a>
 
                 <a
-                    href="https://www.linkedin.com/in/mohan-j-r-548b0b391"
+                    href="www.linkedin.com/in/abhishek-athmakuri-7a0a283821"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

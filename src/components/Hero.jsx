@@ -6,14 +6,14 @@ export default function Hero() {
 
             {/* Left side - Photo */}
             <div className="hero-photo">
-                <img src="/mohan.jpg" alt="Mohan" />
+                <img src="abhi.jpg" alt="abhishek" />
             </div>
 
             {/* Right side - Text */}
             <div className="hero-content">
                 <p className="hero-intro">Hello, I'm</p>
 
-                <h1>Mohan</h1>
+                <h1>ABHISHEK A</h1>
 
                 <h2>Full Stack Developer</h2>
 

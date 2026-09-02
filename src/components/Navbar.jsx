@@ -44,7 +44,7 @@ export default function Navbar({ theme, onToggleTheme }) {
 
                 {/* LOGO */}
                 <a href="#" className="logo">
-                    <span>&lt;</span> MOHAN <span>/&gt;</span>
+                    <span>&lt;</span> AA <span>/&gt;</span>
                 </a>
 
                 {/* NAVIGATION */}

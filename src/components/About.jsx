@@ -8,7 +8,7 @@ export default function About() {
             <div className="about-content">
                 <div className="about-text">
                     <p>
-                        I'm Mohan, a Full Stack Developer and Information
+                        I'm Abhishek, a Full Stack Developer and Information
                         Science & Engineering student from Bengaluru.
                     </p>
 
