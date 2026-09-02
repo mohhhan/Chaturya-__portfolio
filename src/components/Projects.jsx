@@ -24,19 +24,6 @@ const projects = [
         statusType: "development",
         type: "Personal Project",
     },
-
-    {
-        id: "03",
-        title: "CurrencyConvo",
-        subtitle: "Convert currencies with ease.",
-        description:
-            "A simple currency conversion website that allows users to convert between currencies from different countries using live exchange rates.",
-        tags: ["React", "JavaScript", "API"],
-        status: "Completed",
-        statusType: "completed",
-        type: "Personal Project",
-        link: "https://sky-blue-exchange.lovable.app/",
-    },
 ];
 
 export default function Projects() {

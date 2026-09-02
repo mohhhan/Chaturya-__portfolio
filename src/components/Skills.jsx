@@ -5,11 +5,11 @@ const skills = [
     { name: "C++ ", level: 70 },
     { name: "Python ", level: 65 },
     { name: "HTML ", level: 70 },
-    { name: "CSS ", level: 65 },
+    { name: "CSS ", level: 95 },
     { name: "JavaScript ", level: 55 },
-    { name: "React ", level: 45 },
-    { name: "Git & GitHub ", level: 45 },
-    { name: "SQL ", level: 40 },
+    { name: "React ", level: 0 },
+    { name: "Git & GitHub ", level: 85 },
+    { name: "SQL ", level: 100 },
 ];
 
 export default function Skills() {

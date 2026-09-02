@@ -7,7 +7,7 @@
     --text: #0a0a0a;
     --heading: #141415;
     --primary: #070707;
-    --surface: #afa4b8;
+    --surface: #c5681d;
     --border: #140c04;
 }
 
@@ -31,12 +31,12 @@ body {
 
 /* DARK MODE */
 body[data-theme="dark"] {
-    --bg: #07111F;
+    --bg: #4c1e88;
     --text: #CBD5E1;
     --heading: #E0F2FE;
-    --primary: #38BDF8;
+    --primary: #7f12c7;
     --surface: #0F1F33;
-    --border: #1E3A5F;
+    --border: #2a0b74;
 
     background: var(--bg);
     color: var(--text);
