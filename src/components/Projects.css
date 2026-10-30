@@ -46,7 +46,7 @@
 /* PROJECT CARD */
 
 .project-card {
-    background: var(--surface);
+    background: #EDF1E4;
     border: 1px solid var(--border);
     border-radius: 18px;
     padding: 28px;
