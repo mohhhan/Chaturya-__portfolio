@@ -21,7 +21,7 @@
     padding: 40px;
     border: 1px solid var(--border);
     border-radius: 20px;
-    background: var(--surface);
+    background: #EDF1E4;
     backdrop-filter: blur(12px);
     box-shadow: 0 10px 35px rgba(0, 0, 0, 0.08);
     text-align: left;
