@@ -6,7 +6,7 @@ export default function Hero() {
 
             {/* Left side - Photo */}
             <div className="hero-photo">
-                <img src="chaturya.png" alt="chaturya" />
+                <img src="chaturya.jpeg" alt="chaturya" />
             </div>
 
             {/* Right side - Text */}
