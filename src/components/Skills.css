@@ -19,7 +19,7 @@
 }
 
 .skill-item {
-    background: var(--surface);
+    background: #EDF1E4;
     border: 2px solid var(--border);
     border-radius: 12px;
     text-align: center;
