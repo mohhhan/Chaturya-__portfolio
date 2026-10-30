@@ -39,3 +39,8 @@
 .about-text p:last-child {
     margin-bottom: 0;
 }
+/* DARK MODE */
+body[data-theme="dark"] .about-text {
+    background: #232B1A;
+    border-color: var(--border);
+}
