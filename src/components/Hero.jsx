@@ -13,9 +13,9 @@ export default function Hero() {
             <div className="hero-content">
                 <p className="hero-intro">Hello, I'm</p>
 
-                <h1>Nikhil</h1>
+                <h1>Chaturya </h1>
 
-                <h2>Full Stack Developer</h2>
+                <h2>Full Stack developer</h2>
 
                 <p className="tagline">
                     Building ideas into scalable, user-focused digital experiences.
