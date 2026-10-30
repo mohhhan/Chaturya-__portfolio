@@ -3,10 +3,10 @@
     font-synthesis: none;
     text-rendering: optimizeLegibility;
 
-    --bg: #eef4f4;
+    --bg: #A3B18A;
     --text: #0a0a0a;
     --heading: #141415;
-    --primary: #070707;
+    --primary: #556B2F;
     --surface: #c5681d;
     --border: #140c04;
 }
