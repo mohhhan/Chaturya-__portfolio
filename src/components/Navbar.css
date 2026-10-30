@@ -3,7 +3,7 @@
     top: 0;
     z-index: 1000;
 
-    background: color-mix(in srgb, var(--surface) 88%, transparent);
+    background: color-mix(in srgb, #556B2F 88%, transparent);
     backdrop-filter: blur(14px);
     -webkit-backdrop-filter: blur(14px);
 
