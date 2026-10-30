@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <footer>
             <p>
-                &copy; {year} Nikhil. All rights reserved.
+                &copy; {year} Chaturya. All rights reserved.
             </p>
 
             <nav aria-label="social links">
