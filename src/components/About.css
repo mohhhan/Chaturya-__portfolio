@@ -40,7 +40,7 @@
     margin-bottom: 0;
 }
 /* DARK MODE */
-body[data-theme="dark"] .about-text {
-    background: #232B1A;
-    border-color: var(--border);
+body[data-theme="dark"] .about-text p {
+    color: #000000;
+}
 }
